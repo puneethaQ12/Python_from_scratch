@@ -1,1 +1,1 @@
-# Python_from_scratch
+# Python_Course
